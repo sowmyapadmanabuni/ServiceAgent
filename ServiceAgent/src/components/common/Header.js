@@ -3,12 +3,12 @@ import { View, Text, StyleSheet, Image } from "react-native";
 import { Header } from "react-native-elements";
 class HeaderComp extends Component {
   render() {
-    console.log(this.props);
+    // console.log(this.props);
     return (
       <View style={styles.container}>
         <Header
           leftComponent={{
-          //  icon: "long-arrow-left",
+            //  icon: "long-arrow-left",
             type: "font-awesome",
             color: "orange"
           }}
@@ -24,11 +24,15 @@ class HeaderComp extends Component {
           }}
           backgroundColor="#fff"
           // centerComponent={this.props.children}
-        centerComponent={<Image resizeMode
-          ="contain" style={{ height: 50, width: 50}} source = {require('../../icons/OyeSpace.png')}/>}
+          centerComponent={
+            <Image
+              resizeMode="contain"
+              style={{ height: 50, width: 50 }}
+              source={require("../../icons/OyeSpace.png")}
+            />
+          }
         />
         <Text style={styles.headerText}> {this.props.title} </Text>
-       
       </View>
     );
   }

@@ -2,14 +2,14 @@ import React from "react";
 import { View, StyleSheet, Text, TouchableWithoutFeedback } from "react-native";
 
 const Button = props => {
-  console.log(props.onPress);
+  // console.log(props.onPress);
   return (
     <TouchableWithoutFeedback
       onPress={() => {
         props.onPress ? props.onPress() : null;
       }}
     >
-      <View style={[styles.buttonStyle, {...props.style}]}>
+      <View style={[styles.buttonStyle, { ...props.style }]}>
         <Text style={{ color: "#fff" }}>{props.title}</Text>
       </View>
     </TouchableWithoutFeedback>

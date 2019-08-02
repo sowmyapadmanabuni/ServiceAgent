@@ -30,6 +30,8 @@ target 'ServiceAgent' do
 
 
 
+  pod 'RNScreens', :path => '../node_modules/react-native-screens'
+
   target 'ServiceAgentTests' do
     inherit! :search_paths
     # Pods for testing
