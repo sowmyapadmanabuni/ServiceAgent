@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>9A861DF8-6D21-4BF7-8D48-47152EE48B68</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A861DF8-6D21-4BF7-8D48-47152EE48B68.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ServiceAgent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ServiceAgent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ServiceAgent with scheme ServiceAgent and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>586421579.30147099</real>
+			<key>timeStoppedRecording</key>
+			<real>586421580.277022</real>
+			<key>title</key>
+			<string>Building workspace ServiceAgent with scheme ServiceAgent and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9A861DF8-6D21-4BF7-8D48-47152EE48B68</string>
+		</dict>
+		<key>CFE4B511-2938-4F8A-A71A-2700F8ADED1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CFE4B511-2938-4F8A-A71A-2700F8ADED1F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ServiceAgent project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ServiceAgent</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ServiceAgent with scheme ServiceAgent and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>586240399.50670695</real>
+			<key>timeStoppedRecording</key>
+			<real>586240400.38130903</real>
+			<key>title</key>
+			<string>Building workspace ServiceAgent with scheme ServiceAgent and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CFE4B511-2938-4F8A-A71A-2700F8ADED1F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

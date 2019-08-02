@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/sowmyapadmanabhuni/Documents/ServiceAgent/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/65e3387b64ac5fc5daf4fd8dc2a0905c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/4b960a2c68597c73d94b0d26fd920cf6/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/sowmyapadmanabhuni/Documents/ServiceAgent/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/9e2582700b8de4b1c285c86683ca84ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/f84f977b4890430a16090cef0028c0cf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6370be6d0df9ea6da8efde1556b2fda3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/09f299feb4b5cdd8018ceb77f8bf07b4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/2368951acdad5b960b5f26e6af644dc8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6d693a10424cd54d3485d079a856be7e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/189ebc12bf0ca03859dae0788ed84966/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/093c7360462c6937bee2e5ef7e532119/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e65f83d5b85f7846edfeae12b4366f03/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/64f8a0076631e3a3b4148ad9eb5e4943/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/085e5b12cde87953cc9da885d2807feb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/3a058a0e01e1f04cdb6d8865674a21ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/9b9f90b4d2e6202c95045325a13f461c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/8441a89c2c73d41903feef7edb756293/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/13c21fa97c8cea50042f75cb83b773f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5fd4a96671da9458d901acf7d176fd00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/860f0cf8b8381613c4c3e351f11efa93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/d032504dc5ceeeb9440cef4cee14c518/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/97c122886decb00d115f39f325aa9af0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/57bf3d2bda1f84cd77d9836e5ee684f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/a47e6539dcfaacdbe641c756087a3608/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/79a3ae0b519b9a29f20f804fea18b442/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5455403cea06258940839ed3166617b8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/064d21b2c4eee038a010308ec18c6025/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/ff1de5b32f7920ef66cf6e68f91be857/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/0dbeb30aa400547f86e7e2a160d67057/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e9b938f264bcbb2140d1698624f17940/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/054e0d73dfbb9999bd390bfb4ac2b629/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/2c2661944379b43393e9ff58d0e168b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/b440ff0e252f74932346cbc663c6250e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6e8975af22f30bcfd826e954b28439e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/a6be0d30a013e181996be3b2fede377b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e91dc6e0cec439975dd09b45fe5b689e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/900eff05f82544a7e3db223ff503b75c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/946a6ebd5dd45264a95782d291bd206b/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/65e3387b64ac5fc5daf4fd8dc2a0905c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/65e3387b64ac5fc5daf4fd8dc2a0905c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e65f83d5b85f7846edfeae12b4366f03/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e65f83d5b85f7846edfeae12b4366f03/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5455403cea06258940839ed3166617b8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5455403cea06258940839ed3166617b8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/064d21b2c4eee038a010308ec18c6025/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/064d21b2c4eee038a010308ec18c6025/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5455403cea06258940839ed3166617b8/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.serviceagent.MainActivity
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/sowmyapadmanabhuni/Documents/ServiceAgent/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/sowmyapadmanabhuni/Documents/ServiceAgent/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/65e3387b64ac5fc5daf4fd8dc2a0905c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/65e3387b64ac5fc5daf4fd8dc2a0905c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/4b960a2c68597c73d94b0d26fd920cf6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/4b960a2c68597c73d94b0d26fd920cf6/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sowmyapadmanabhuni/Documents/ServiceAgent/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sowmyapadmanabhuni/Documents/ServiceAgent/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/9e2582700b8de4b1c285c86683ca84ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/9e2582700b8de4b1c285c86683ca84ca/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/f84f977b4890430a16090cef0028c0cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/f84f977b4890430a16090cef0028c0cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6370be6d0df9ea6da8efde1556b2fda3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6370be6d0df9ea6da8efde1556b2fda3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/09f299feb4b5cdd8018ceb77f8bf07b4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/09f299feb4b5cdd8018ceb77f8bf07b4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/2368951acdad5b960b5f26e6af644dc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/2368951acdad5b960b5f26e6af644dc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6d693a10424cd54d3485d079a856be7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6d693a10424cd54d3485d079a856be7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/189ebc12bf0ca03859dae0788ed84966/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/189ebc12bf0ca03859dae0788ed84966/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/093c7360462c6937bee2e5ef7e532119/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/093c7360462c6937bee2e5ef7e532119/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e65f83d5b85f7846edfeae12b4366f03/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e65f83d5b85f7846edfeae12b4366f03/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/64f8a0076631e3a3b4148ad9eb5e4943/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/64f8a0076631e3a3b4148ad9eb5e4943/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/085e5b12cde87953cc9da885d2807feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/085e5b12cde87953cc9da885d2807feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/3a058a0e01e1f04cdb6d8865674a21ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/3a058a0e01e1f04cdb6d8865674a21ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/9b9f90b4d2e6202c95045325a13f461c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/9b9f90b4d2e6202c95045325a13f461c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/8441a89c2c73d41903feef7edb756293/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/8441a89c2c73d41903feef7edb756293/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/13c21fa97c8cea50042f75cb83b773f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/13c21fa97c8cea50042f75cb83b773f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5fd4a96671da9458d901acf7d176fd00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5fd4a96671da9458d901acf7d176fd00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/860f0cf8b8381613c4c3e351f11efa93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/860f0cf8b8381613c4c3e351f11efa93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/d032504dc5ceeeb9440cef4cee14c518/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/d032504dc5ceeeb9440cef4cee14c518/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/97c122886decb00d115f39f325aa9af0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/97c122886decb00d115f39f325aa9af0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/57bf3d2bda1f84cd77d9836e5ee684f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/57bf3d2bda1f84cd77d9836e5ee684f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/a47e6539dcfaacdbe641c756087a3608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/a47e6539dcfaacdbe641c756087a3608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/79a3ae0b519b9a29f20f804fea18b442/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/79a3ae0b519b9a29f20f804fea18b442/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5455403cea06258940839ed3166617b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/5455403cea06258940839ed3166617b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/064d21b2c4eee038a010308ec18c6025/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/064d21b2c4eee038a010308ec18c6025/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/ff1de5b32f7920ef66cf6e68f91be857/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/ff1de5b32f7920ef66cf6e68f91be857/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/0dbeb30aa400547f86e7e2a160d67057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/0dbeb30aa400547f86e7e2a160d67057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e9b938f264bcbb2140d1698624f17940/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e9b938f264bcbb2140d1698624f17940/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/054e0d73dfbb9999bd390bfb4ac2b629/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/054e0d73dfbb9999bd390bfb4ac2b629/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/2c2661944379b43393e9ff58d0e168b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/2c2661944379b43393e9ff58d0e168b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/b440ff0e252f74932346cbc663c6250e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/b440ff0e252f74932346cbc663c6250e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6e8975af22f30bcfd826e954b28439e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/6e8975af22f30bcfd826e954b28439e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/a6be0d30a013e181996be3b2fede377b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/a6be0d30a013e181996be3b2fede377b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e91dc6e0cec439975dd09b45fe5b689e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/e91dc6e0cec439975dd09b45fe5b689e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/900eff05f82544a7e3db223ff503b75c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/900eff05f82544a7e3db223ff503b75c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/946a6ebd5dd45264a95782d291bd206b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sowmyapadmanabhuni/.gradle/caches/transforms-2/files-2.1/946a6ebd5dd45264a95782d291bd206b/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sowmyapadmanabhuni/Documents/ServiceAgent/android/app/src/main/AndroidManifest.xml
